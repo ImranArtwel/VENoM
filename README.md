@@ -1,10 +1,9 @@
-# VENoM
+
 # venom-project
 
 > venom with end-to-end
 
 This project uses the VENOM stack which represents:
-<<<<<<< HEAD
 - V => Vuejs
 - E => Express
 - No=> Nodejs
@@ -13,16 +12,10 @@ This project uses the VENOM stack which represents:
 In this project, a user is expected to register and subsequently login. 
 After login, user can add task, view tasks, edit or delete tasks
 Project also implements end-to-end testing using nightwatch
-=======
-*V => Vuejs
-*E => Express
-*No=> Nodejs
-*M => MongoDB
 
-*In this project, a user is expected to register and subsequently login. 
-*After login, user can add task, view tasks, edit or delete tasks
-*Project also implements end-to-end testing using nightwatch
->>>>>>> 581e33fb65571b0c70bd3807a7a3c4cfec427678
+In this project, a user is expected to register and subsequently login. 
+After login, user can add task, view tasks, edit or delete tasks
+Project also implements end-to-end testing using nightwatch
 
 ## Build Setup
 
